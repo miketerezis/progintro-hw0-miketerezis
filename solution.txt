@@ -3,3 +3,4 @@ https://github.com/miketerezis/progintro-hw0-miketerezis.git
 bandit0:bandit0
 bandit0:NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit1:rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+bandit2:aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
